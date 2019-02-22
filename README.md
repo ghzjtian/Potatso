@@ -1,3 +1,13 @@
+# 打造自己的 iOS 客户端
+
+## 1.参考 [构建自己的iOS网络代理客户端](https://tlanyan.me/build-your-ios-vpn-client/)
+* 1.但是还是构建不成功
+
+
+***
+***
+***
+
 [![donate button](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat)](https://github.com/haxpor/donate)
 
 ![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)
